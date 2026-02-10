@@ -1,2 +1,2 @@
 # ai
-ai labs
+Labwork and Assignments for my AI class
